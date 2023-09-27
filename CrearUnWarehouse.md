@@ -1,6 +1,6 @@
 ## Para comenzar un nuevo data warehouse en Snowflake, se pueden seguir los siguientes pasos: 
 
-1. **Crear una cuenta en Snowflake**: Si aún no tienes una cuenta en Snowflake, necesitarás crear una. Puedes hacerlo yendo al sitio web de Snowflake y registrándote para una prueba gratuita o contactando a ventas de Snowflake para adquirir una suscripción[5].
+1. **Crear una cuenta en Snowflake**: Si aún no tienes una cuenta en Snowflake, necesitarás crear una. Puedes hacerlo yendo al sitio web de Snowflake y registrándote para una prueba gratuita.
 
 2. **Crear un almacén (warehouse)**: Una vez que tengas una cuenta en Snowflake, puedes crear un nuevo almacén utilizando el comando `CREATE WAREHOUSE <nombre>` en SQL. Este comando te permite especificar varios parámetros para el almacén, como el tamaño del almacén y la cantidad de clústeres que debe tener[1]. Alternativamente, puedes usar la función WORKSHEET en Snowflake para crear un almacén utilizando un script[5].
 
