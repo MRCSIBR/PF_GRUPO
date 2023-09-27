@@ -12,8 +12,7 @@
 
 6. **Ejecutar consultas**: Con los datos cargados en tus tablas, puedes comenzar a ejecutar consultas para analizar y manipular tus datos. Puedes utilizar SQL para escribir consultas en la interfaz web de Snowflake o mediante un cliente SQL[4].
 
-En resumen, comenzar un nuevo almacén de datos en Snowflake implica crear un almacén, una base de datos y un esquema, y luego cargar datos y ejecutar consultas. 
-Los pasos específicos que tomes dependerán de tu caso de uso y requisitos de datos.
+En resumen, comenzar un nuevo almacén de datos en Snowflake es relativamente sencillo y se puede resolver con una serie de comandos.
 
 
 EJEMPLO: Luego de crear nuestro worksheet podemos escribir comandos
