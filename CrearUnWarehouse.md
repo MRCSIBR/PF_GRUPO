@@ -1,20 +1,21 @@
-To start a new data warehouse in Snowflake, you can follow these general steps:
+## Para comenzar un nuevo data warehouse en Snowflake, se pueden seguir los siguientes pasos: 
 
-1. **Create a Snowflake account**: If you don't already have a Snowflake account, you'll need to create one. You can do this by going to the Snowflake website and signing up for a free trial or contacting Snowflake sales to purchase a subscription[5].
+1. **Crear una cuenta en Snowflake**: Si aún no tienes una cuenta en Snowflake, necesitarás crear una. Puedes hacerlo yendo al sitio web de Snowflake y registrándote para una prueba gratuita o contactando a ventas de Snowflake para adquirir una suscripción[5].
 
-2. **Create a warehouse**: Once you have a Snowflake account, you can create a new warehouse by using the CREATE WAREHOUSE command in SQL. This command allows you to specify various parameters for the warehouse, such as the size of the warehouse and the number of clusters it should have[1]. Alternatively, you can use the WORKSHEET feature in Snowflake to create a warehouse using a script[5].
+2. **Crear un almacén (warehouse)**: Una vez que tengas una cuenta en Snowflake, puedes crear un nuevo almacén utilizando el comando `CREATE WAREHOUSE <nombre>` en SQL. Este comando te permite especificar varios parámetros para el almacén, como el tamaño del almacén y la cantidad de clústeres que debe tener[1]. Alternativamente, puedes usar la función WORKSHEET en Snowflake para crear un almacén utilizando un script[5].
 
-3. **Create a database**: After creating a warehouse, you'll need to create a database to store your data. You can do this using the CREATE DATABASE command in SQL[4].
+3. **Crear una base de datos**: Después de crear un almacén, necesitarás crear una base de datos para almacenar tus datos. Puedes hacerlo utilizando el comando `CREATE DATABASE <nombre>` en SQL[4].
 
-4. **Create a schema**: Within your database, you can create one or more schemas to organize your tables and views. You can use the CREATE SCHEMA command in SQL to create a new schema[4].
+4. **Crear un esquema (schema)**: Dentro de tu base de datos, puedes crear uno o más esquemas para organizar tus tablas y vistas. Puedes utilizar el comando `CREATE SCHEMA` en SQL para crear un nuevo esquema[4].
 
-5. **Load data**: Once you have a schema, you can start loading data into your tables. You can do this using various methods, such as using the Snowflake web interface to upload CSV files or using Snowflake's COPY command to load data from an S3 bucket[4].
+5. **Cargar datos**: Una vez que tengas un esquema, puedes comenzar a cargar datos en tus tablas. Puedes hacerlo utilizando diversos métodos, como usar la interfaz web de Snowflake para cargar archivos CSV o utilizar el comando COPY de Snowflake para cargar datos desde un depósito S3[4].
 
-6. **Run queries**: With data loaded into your tables, you can start running queries to analyze and manipulate your data. You can use SQL to write queries in the Snowflake web interface or using a SQL client[4].
+6. **Ejecutar consultas**: Con los datos cargados en tus tablas, puedes comenzar a ejecutar consultas para analizar y manipular tus datos. Puedes utilizar SQL para escribir consultas en la interfaz web de Snowflake o mediante un cliente SQL[4].
 
-Overall, starting a new data warehouse in Snowflake involves creating a warehouse, database, and schema, and then loading data and running queries. The specific steps you take will depend on your use case and data requirements.
+En resumen, comenzar un nuevo almacén de datos en Snowflake implica crear un almacén, una base de datos y un esquema, y luego cargar datos y ejecutar consultas. 
+Los pasos específicos que tomes dependerán de tu caso de uso y requisitos de datos.
 
-Citations:
+Referencias:
 [1] https://docs.snowflake.com/en/sql-reference/sql/create-warehouse
 [2] https://youtube.com/watch?v=W4qL4eIM_Pw
 [3] https://www.blendo.co/documents/setup-snowflake-data-warehouse/
