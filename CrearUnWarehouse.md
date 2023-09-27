@@ -15,6 +15,29 @@
 En resumen, comenzar un nuevo almacén de datos en Snowflake implica crear un almacén, una base de datos y un esquema, y luego cargar datos y ejecutar consultas. 
 Los pasos específicos que tomes dependerán de tu caso de uso y requisitos de datos.
 
+
+EJEMPLO: Luego de crear nuestro worksheet podemos escribir comandos
+
+```SQL
+/* Crear Almacen de consultoria */
+CREATE WAREHOUSE consultoria WITH WAREHOUSE_SIZE='SMALL';
+
+
+CREATE DATABASE housemarket;
+
+/* Documentacion : https://docs.snowflake.com/en/sql-reference/sql/create-schema */
+CREATE SCHEMA zillow;
+
+
+CREATE TABLE zillow.HOUSEPRICE (
+  regionid INT,
+  address VARCHAR,
+  price DECIMAL(10,2),
+  bedrooms INT,
+  bathrooms INT,
+  sqft INT
+);
+```
 Referencias:
 [1] https://docs.snowflake.com/en/sql-reference/sql/create-warehouse
 [2] https://youtube.com/watch?v=W4qL4eIM_Pw
