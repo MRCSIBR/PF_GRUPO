@@ -39,7 +39,7 @@ CREATE TABLE zillow.HOUSEPRICE (
 
 CREATE SCHEMA airbnb;
 
-// Cambios 28.9.2023
+/* Cambios 28.9.2023 */
 CREATE OR REPLACE TABLE SEATTLE_LISTINGS (
   Id INT,
   Name VARCHAR,
@@ -61,10 +61,10 @@ CREATE OR REPLACE TABLE SEATTLE_LISTINGS (
   License VARCHAR
   );
 
-// Borrar table seattle
-//DROP TABLE SEATTLE;  
+/* Borrar table seattle
+DROP TABLE SEATTLE;  */
 
-// Para correr una consulta abrimos otra pestaña en snowflake
+/* Para correr una consulta abrimos otra pestaña en snowflake */
 SELECT
   *
 FROM
