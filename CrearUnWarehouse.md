@@ -36,6 +36,41 @@ CREATE TABLE zillow.HOUSEPRICE (
   bathrooms INT,
   sqft INT
 );
+
+CREATE SCHEMA airbnb;
+
+// Cambios 28.9.2023
+CREATE OR REPLACE TABLE SEATTLE_LISTINGS (
+  Id INT,
+  Name VARCHAR,
+  Host_id DECIMAL(10,2),
+  Host_name VARCHAR,
+  Neighbourhood_group VARCHAR,
+  Neighbourhood VARCHAR,
+  Latitude FLOAT,
+  Longitude FLOAT,
+  Room_type VARCHAR,
+  Price INT,
+  Minimum_nights INT,
+  Number_of_reviews INT,
+  Last_review VARCHAR,
+  Reviews_per_month DECIMAL,
+  Calculated_host_listings_count INT,
+  Availability_365 INT,
+  Number_of_reviews_ltm INT,
+  License VARCHAR
+  );
+
+// Borrar table seattle
+//DROP TABLE SEATTLE;  
+
+// Para correr una consulta abrimos otra pestaña en snowflake
+SELECT
+  *
+FROM
+  SEATTLE_LISTINGS
+LIMIT
+  10;
 ```
 Referencias:
 [1] https://docs.snowflake.com/en/sql-reference/sql/create-warehouse
