@@ -1,7 +1,7 @@
 #  Insightful Data Partners
 ## Proyecto_Final / Analisis de Mercado inmobiliario
 
-<img height="150" https://cdn.discordapp.com/attachments/1156267987721015336/1157328373299818516/Logo-removebg-preview.png?ex=6518358a&is=6516e40a&hm=d60a5f3002745d09e4a8e44776363d9106f9c6f95adce38232c1c09a75deac81& />
+<img height="150"  />
 
 En este repositorio se pueden agregar ideas, comentarios o notebooks, relacionados
 al proyecto final de Data Science / SoyHenry.
