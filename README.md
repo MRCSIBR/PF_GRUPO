@@ -4,9 +4,11 @@ Proyecto_Final / Data Science
 En este repositorio se pueden agregar ideas, comentarios o notebooks, relacionados
 al proyecto final de Data Science / SoyHenry.
 
+## Presentacion de propuesta
+
 Somos una consultora de data analisis que ofrece sus servicios para ofrecer un estudio sobre el mercado de alquileres de propiedades utilizando la plataforma Airbnb. Se analizarán los datos de la ciudad de New York en la ventana de tiempo de x a y. Tambien se analiza la evolucion de los valores de las propiedades a lo largo del tiempo.
 A partir de los datos extraidos de Airbnb (el cliente entrega los datos), se realizarán distintos analisis:
-* Identificacion del los impactos de las crisis en el mercado inmobiliario. como afecta a cada categoria, distintos barrios, propiedades, precios.*1 
+* Identificacion del los impactos de las crisis en el mercado inmobiliario. como afecta a cada categoria, distintos barrios, propiedades, precios.
 * Basados en las tablas de Airbnb tambien, analizar en que zonas es conveniente realizar inversiones. Hay que utilizar los datos del analisis anterior e identificar cuales son inversiones que son mas robustas frente a eventos adversos de crisis. Fortalezas y debilidades de cada tipo de propiedad.
 
 Herramientas utilizadas: para la base de datos en la nube, google cloud.
