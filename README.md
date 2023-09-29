@@ -1,8 +1,9 @@
-# PF_GRUPO
-Proyecto_Final / Data Science
+#  Insightful Data Partners
+## Proyecto_Final / Analisis de Mercado inmobiliario
 
 En este repositorio se pueden agregar ideas, comentarios o notebooks, relacionados
 al proyecto final de Data Science / SoyHenry.
+
 
 ## Presentacion de propuesta
 
