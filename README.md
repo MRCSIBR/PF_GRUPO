@@ -22,8 +22,8 @@ Herramientas utilizadas: para la base de datos en la nube, google cloud.
 
 ## Metodo de trabajo
 
-Para identificar las crisis podemos usar algunos indices de la bolsa de Estados Unidos como VBQ (ETF real-state). Ademas hay cientos de fuentes distintas y confiables de donde sacar la info. 
-Para identificar si  es momento de comprar o no propiedades se podria buscar correlaciones entre precio de metro cuadrado (square foot) y tendencias en los precios de los indices.(para esto podemos usar el dataframe que comentaba Marcos). Es importante destacar que no tenemos de los datos de Airbnb información por tiempo. 
+Para determinar si existe una crisis podemos usar algunos indices de la bolsa de Estados Unidos como VBQ (ETF real-state). Ademas hay cientos de fuentes distintas y confiables de donde sacar la info. 
+Para identificar si es momento de comprar o no propiedades se podria buscar correlaciones entre precio de metro cuadrado (square foot) y tendencias en los precios de los indices.(para esto podemos usar el dataframe que comentaba Marcos). Es importante destacar que no tenemos de los datos de Airbnb información por tiempo. 
 No podemos estimar que departamentos fueron mas ocupados en momentos de crisis. Para eso deberiamos ver si encontramos otras fuentes de datos como el censo. Leer notas o artículos.
 
 ## Guia para crear un almacen de datos en Snowflake
