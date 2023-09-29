@@ -2,8 +2,6 @@
 ## Proyecto_Final / Analisis de Mercado inmobiliario
 
 
-<img src="Logo.png" alt="Logo">
-
 <p align="center">
   <img src="Logo.png" alt="Logo" width="200">
 </p>
