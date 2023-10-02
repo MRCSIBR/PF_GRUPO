@@ -35,6 +35,9 @@ Herramientas utilizadas: para la base de datos en la nube, google cloud.
 Para determinar si existe una crisis utilizaremos indices de la bolsa de Estados Unidos como VBQ (ETF real-state) y otros similares.
 Para definir si es momento de comprar o no propiedades se analizarán correlaciones entre precio de pie cuadrado (square foot) y tendencias en los precios de los indices. Es importante destacar que no contamos con los datos de Airbnb de manera completa por lo tanto se realizaran estimaciones, y se complementará la informacion con datos que puedan extraerse de distintas fuentes. 
 
+## Diagrama Gantt
+
+![Gantt chart for proyecto](src/Gantt_proyecto.png)
 
 ## Guia para crear un almacen de datos en Snowflake
 
