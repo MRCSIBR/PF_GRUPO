@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="Logo.png" alt="Logo" width="200">
+  <img src="src/Logo.png" alt="Logo" width="200">
 </p>
 En este repositorio se pueden agregar ideas, comentarios o notebooks, relacionados
 al proyecto grupal de Data Science / SoyHenry.
