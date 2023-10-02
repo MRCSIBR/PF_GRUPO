@@ -6,7 +6,7 @@
   <img src="Logo.png" alt="Logo" width="200">
 </p>
 En este repositorio se pueden agregar ideas, comentarios o notebooks, relacionados
-al proyecto final de Data Science / SoyHenry.
+al proyecto grupal de Data Science / SoyHenry.
 
 
 ## Presentacion de propuesta
