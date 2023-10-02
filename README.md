@@ -38,5 +38,5 @@ Para definir si es momento de comprar o no propiedades se analizarán correlacio
 
 ## Guia para crear un almacen de datos en Snowflake
 
-https://github.com/MRCSIBR/PF_GRUPO/blob/main/CrearUnWarehouse.md
+https://github.com/MRCSIBR/PF_GRUPO/blob/main/Desarrollo/CrearUnWarehouse.md
 
