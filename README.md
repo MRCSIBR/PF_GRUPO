@@ -43,3 +43,7 @@ Para definir si es momento de comprar o no propiedades se analizarán correlacio
 
 https://github.com/MRCSIBR/PF_GRUPO/blob/main/Desarrollo/CrearUnWarehouse.md
 
+## Script de Carga Incremental
+
+https://github.com/MRCSIBR/Python_GoogleCLOUD
+
