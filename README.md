@@ -1,6 +1,12 @@
 #  Insightful Data Partners
 ## Proyecto_Final / Analisis de Mercado inmobiliario
 
+# Integrantes
+
+Marcos D. Ibarra  - Data Engineer
+Nahuel Otonello - Data Analist
+Mateo Troncelliti - Data Analist
+Juan Alcaraz - Data Analist
 
 <p align="center">
   <img src="src/Logo.png" alt="Logo" width="200">
