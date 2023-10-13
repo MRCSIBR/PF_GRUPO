@@ -10,10 +10,12 @@ al proyecto grupal de Data Science / SoyHenry.
 
 
 ## Presentacion de propuesta
+Somos una consultora de análisis de datos que se especializa en estudios del mercado inmobiliario de Nueva York. 
+Nuestro estudio se enfoca en dos áreas principales:
 
-Somos una consultora de data analisis que ofrece sus servicios para ofrecer un estudio sobre el estado del negocio inmobilidario en la ciudad de Nueva York. Este estudio comprende dos ramas principales:
-* La variacion del precio de las propiedades (capital).
-* Los precios y la demanda de alquileres.
+    Variación de precios de propiedades en la ciudad.
+    Análisis de precios y demanda de alquileres a través de datos recopilados de Airbnb en el periodo 2013-2023.
+
 Para el mercado de alquileres de propiedades utilizando big data de la plataforma Airbnb. Se analizarán cantidad masiva de información de la ciudad de New York en la ventana de tiempo de 2013 a 2023.
 
 Tambien se analiza la evolución de los valores de las propiedades a lo largo del tiempo.
