@@ -3,10 +3,10 @@
 
 # Integrantes
 
- +Marcos D. Ibarra  - Data Engineer
- +Nahuel Otonello - Data Analist
- +Mateo Troncelliti - Data Analist
- +Juan Alcaraz - Data Analist
++ Marcos D. Ibarra  - Data Engineer
++ Nahuel Otonello - Data Analist
++ Mateo Troncelliti - Data Analist
++ Juan Alcaraz - Data Analist
 
 <p align="center">
   <img src="src/Logo.png" alt="Logo" width="200">
