@@ -58,6 +58,6 @@ https://github.com/MRCSIBR/Python_GoogleCLOUD
 
 + Marcos D. Ibarra  - Data Engineer
 + Nahuel Otonello - Data Analist
-+ Mateo Troncelliti - Data Analist
-+ Juan Alcaraz - Data Analist
++ Mateo Troncelliti - Data Scientist
++ Juan Alcazar - Data Analist
 
