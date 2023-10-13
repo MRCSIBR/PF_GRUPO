@@ -10,7 +10,26 @@ CREATE TABLE Region (
     RegionName VARCHAR(255)
     -- Add other region-specific attributes here
 );
+-- Create the ZillowData table
 
+CREATE TABLE ZillowData (
+    ZillowID INT PRIMARY KEY,
+    Zestimate DECIMAL(10, 2),
+    LastUpdated DATE,
+    PropertyTax DECIMAL(10, 2),
+    HOAFees DECIMAL(10, 2),
+    ZillowURL VARCHAR(255)
+    -- Add other Zillow-specific attributes here
+);
+
+-- Create the RedfinData table
+CREATE TABLE RedfinData (
+    RedfinID INT PRIMARY KEY,
+    RedfinEstimate DECIMAL(10, 2),
+    LastUpdated DATE,
+    RedfinURL VARCHAR(255)
+    -- Add other Redfin-specific attributes here
+);
 -- Create the Property table
 CREATE TABLE Property (
     PropertyID INT PRIMARY KEY AUTO_INCREMENT,
@@ -35,25 +54,7 @@ CREATE TABLE Property (
     FOREIGN KEY (RedfinID) REFERENCES RedfinData(RedfinID)
 );
 
--- Create the ZillowData table
-CREATE TABLE ZillowData (
-    ZillowID INT PRIMARY KEY,
-    Zestimate DECIMAL(10, 2),
-    LastUpdated DATE,
-    PropertyTax DECIMAL(10, 2),
-    HOAFees DECIMAL(10, 2),
-    ZillowURL VARCHAR(255)
-    -- Add other Zillow-specific attributes here
-);
 
--- Create the RedfinData table
-CREATE TABLE RedfinData (
-    RedfinID INT PRIMARY KEY,
-    RedfinEstimate DECIMAL(10, 2),
-    LastUpdated DATE,
-    RedfinURL VARCHAR(255)
-    -- Add other Redfin-specific attributes here
-);
 
 -- Create the AirbnbData table
 CREATE TABLE AirbnbData (
@@ -84,7 +85,7 @@ CREATE TABLE SalesData (
     SaleDate DATE,
     SalePrice DECIMAL(10, 2),
     BuyerName VARCHAR(255),
-    -- Add other sale-related attributes here
+    -- Add other sale-related attributes herePRIMARYPRIMARY
     FOREIGN KEY (PropertyID) REFERENCES Property(PropertyID)
 );
 
