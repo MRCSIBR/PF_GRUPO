@@ -45,9 +45,13 @@ Para definir si es momento de comprar o no propiedades se analizarán correlacio
 
 https://github.com/MRCSIBR/PF_GRUPO/blob/main/Desarrollo/CrearUnWarehouse.md
 
-## Diagrama Base de Datos CloudSQL
-
 ## Script de Carga Incremental
 
 https://github.com/MRCSIBR/Python_GoogleCLOUD
+
+## Diagrama Base de Datos CloudSQL
+
+<img src="src/CloudSQL_DB.png">
+
+
 
