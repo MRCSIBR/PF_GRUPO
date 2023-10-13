@@ -23,7 +23,7 @@ A partir de los datos extraidos de Airbnb (el cliente entrega los datos), se rea
 * Identificacion del los impactos de las crisis en el mercado inmobiliario. como afecta a cada categoria, distintos barrios, propiedades, precios.
 * Basados en las tablas de Airbnb tambien, analizar en que zonas es conveniente realizar inversiones. Hay que utilizar los datos del analisis anterior e identificar cuales son inversiones que son mas robustas frente a eventos adversos de crisis. Fortalezas y debilidades de cada tipo de propiedad.
 
-Herramientas utilizadas: para la base de datos en la nube, google cloud.
+Herramientas utilizadas: Google Cloud, Power BI, BigQuery.
 
 ## KPIs propuestos
 
