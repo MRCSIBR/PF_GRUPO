@@ -13,8 +13,8 @@ al proyecto grupal de Data Science / SoyHenry.
 Somos una consultora de análisis de datos que se especializa en estudios del mercado inmobiliario de Nueva York. 
 Nuestro estudio se enfoca en dos áreas principales:
 
-    +1 Variación de precios de propiedades en la ciudad.
-    +2 Análisis de precios y demanda de alquileres a través de datos recopilados de Airbnb en el periodo 2013-2023.
+* Variación de precios de propiedades en la ciudad.
+* Análisis de precios y demanda de alquileres a través de datos recopilados de Airbnb en el periodo 2013-2023.
 
 Para el mercado de alquileres de propiedades utilizando big data de la plataforma Airbnb. Se analizarán cantidad masiva de información de la ciudad de New York en la ventana de tiempo de 2013 a 2023.
 
