@@ -2,6 +2,7 @@
 ## Proyecto_Final / Analisis de Mercado inmobiliario
 
 
+
 <p align="center">
   <img src="src/Logo.png" alt="Logo" width="200">
 </p>
@@ -10,10 +11,12 @@ al proyecto grupal de Data Science / SoyHenry.
 
 
 ## Presentacion de propuesta
+Somos una consultora de análisis de datos que se especializa en estudios del mercado inmobiliario de Nueva York. 
+Nuestro estudio se enfoca en dos áreas principales:
 
-Somos una consultora de data analisis que ofrece sus servicios para ofrecer un estudio sobre el estado del negocio inmobilidario en la ciudad de Nueva York. Este estudio comprende dos ramas principales:
-* La variacion del precio de las propiedades (capital).
-* Los precios y la demanda de alquileres.
+* Variación de precios de propiedades en la ciudad.
+* Análisis de precios y demanda de alquileres a través de datos recopilados de Airbnb en el periodo `2013-2023.`
+
 Para el mercado de alquileres de propiedades utilizando big data de la plataforma Airbnb. Se analizarán cantidad masiva de información de la ciudad de New York en la ventana de tiempo de 2013 a 2023.
 
 Tambien se analiza la evolución de los valores de las propiedades a lo largo del tiempo.
@@ -21,7 +24,7 @@ A partir de los datos extraidos de Airbnb (el cliente entrega los datos), se rea
 * Identificacion del los impactos de las crisis en el mercado inmobiliario. como afecta a cada categoria, distintos barrios, propiedades, precios.
 * Basados en las tablas de Airbnb tambien, analizar en que zonas es conveniente realizar inversiones. Hay que utilizar los datos del analisis anterior e identificar cuales son inversiones que son mas robustas frente a eventos adversos de crisis. Fortalezas y debilidades de cada tipo de propiedad.
 
-Herramientas utilizadas: para la base de datos en la nube, google cloud.
+Herramientas utilizadas: Google Cloud, Power BI, BigQuery.
 
 ## KPIs propuestos
 
@@ -46,4 +49,15 @@ https://github.com/MRCSIBR/PF_GRUPO/blob/main/Desarrollo/CrearUnWarehouse.md
 ## Script de Carga Incremental
 
 https://github.com/MRCSIBR/Python_GoogleCLOUD
+
+## Diagrama Base de Datos CloudSQL
+
+<img src="src/CloudSQL_DB.png">
+
+# Integrantes
+
++ Marcos D. Ibarra  - Data Engineer
++ Nahuel Otonelo - Data Analist
++ Mateo Troncelliti - Data Scientist
++ Juan Alcazar - Data Analist
 
